@@ -1,43 +1,48 @@
-##  Skills
+## 🛠️ Skills
 
-###  Modeling & Control
+### 🧠 Modeling & Control
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="45" height="45" alt="MATLAB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="45" height="45" alt="MATLAB" title="MATLAB"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Simulink-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" height="45"/>
-  <img src="https://img.shields.io/badge/Simscape-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" height="45"/>
-  <img src="https://img.shields.io/badge/Gazebo-000000?style=for-the-badge&logoColor=white" height="45"/>
-  <img src="https://img.shields.io/badge/CARLA-282828?style=for-the-badge&logoColor=white" height="45"/>
-  <img src="https://img.shields.io/badge/QGroundControl-1565C0?style=for-the-badge&logoColor=white" height="45"/>
+  <img src="./icons/simulink.png" width="45" height="45" alt="Simulink" title="Simulink"/>
+  &nbsp;
+  <img src="./icons/gazebo.png" width="45" height="45" alt="Gazebo" title="Gazebo"/>
+  &nbsp;
+  <img src="./icons/carla.png" width="45" height="45" alt="CARLA" title="CARLA"/>
+  &nbsp;
+  <img src="./icons/qgroundcontrol.png" width="45" height="45" alt="QGroundControl" title="QGroundControl"/>
 </p>
 
-###  Embedded & Robotics
+### 🤖 Embedded & Robotics
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-plain.svg" width="45" height="45" alt="Ubuntu"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-plain.svg" width="45" height="45" alt="Ubuntu" title="Ubuntu"/>
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="45" height="45" alt="Arduino"/>
+  <img src="./icons/foxy.webp" width="45" height="45" alt="ROS2 Foxy" title="ROS2 Foxy"/>
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" width="45" height="45" alt="Raspberry Pi"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="45" height="45" alt="Arduino" title="Arduino"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white" height="45"/>
-  <img src="https://img.shields.io/badge/NAV2-22314E?style=for-the-badge&logo=ros&logoColor=white" height="45"/>
-  <img src="https://img.shields.io/badge/PX4-4B0082?style=for-the-badge&logoColor=white" height="45"/>
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" width="45" height="45" alt="Raspberry Pi" title="Raspberry Pi"/>
+  &nbsp;
+  <img src="./icons/esp32.svg" width="45" height="45" alt="ESP32" title="ESP32"/>
+  &nbsp;
+  <img src="./icons/px4.png" width="45" height="45" alt="PX4" title="PX4"/>
+  &nbsp;
+  <img src="./icons/docker.svg" width="45" height="45" alt="Docker" title="Docker"/>
 </p>
 
-###  Programming
+### 💻 Programming
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" height="45" alt="Python" title="Python"/>
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++" title="C++"/>
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" title="JavaScript"/>
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/labview/labview-original.svg" width="45" height="45" alt="LabVIEW"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/labview/labview-original.svg" width="45" height="45" alt="LabVIEW" title="LabVIEW"/>
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="45" height="45" alt="NumPy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="45" height="45" alt="NumPy" title="NumPy"/>
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas" title="Pandas"/>
 </p>
 
 ---
