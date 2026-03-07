@@ -1,6 +1,6 @@
-## 🛠️ Skills
+##  Skills
 
-### 🧠 Modeling & Control
+###  Modeling & Control
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="45" height="45" alt="MATLAB"/>
   &nbsp;
@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/QGroundControl-1565C0?style=for-the-badge&logoColor=white" height="45"/>
 </p>
 
-### 🤖 Embedded & Robotics
+###  Embedded & Robotics
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-plain.svg" width="45" height="45" alt="Ubuntu"/>
   &nbsp;
@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" height="45"/>
 </p>
 
-### 💻 Programming
+###  Programming
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
   &nbsp;
