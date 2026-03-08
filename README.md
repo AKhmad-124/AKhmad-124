@@ -23,7 +23,7 @@
   &nbsp;
   <img src="https://go-skill-icons.vercel.app/api/icons?i=raspberrypi" width="45" height="45" alt="Raspberry Pi" title="Raspberry Pi"/>
   &nbsp;
-  <img src="./icons/esp32.svg" width="45" height="45" alt="ESP32" title="ESP32"/>
+  <img src="./icons/esp32.png" width="45" height="45" alt="ESP32" title="ESP32"/>
   &nbsp;
   <img src="./icons/px4.png" width="45" height="45" alt="PX4" title="PX4"/>
   &nbsp;
