@@ -1,48 +1,84 @@
-## 🛠️ Skills
+## Skills
 
-### 🧠 Modeling & Control
+### Modeling & Control
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=matlab" width="45" height="45" alt="MATLAB" title="MATLAB"/>
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=matlab" width="45" height="45" alt="MATLAB" title="MATLAB"/>
+  </a>
   &nbsp;
-  <img src="./icons/simulink.png" width="45" height="45" alt="Simulink" title="Simulink"/>
+  <a href="https://www.mathworks.com/products/simulink.html" target="_blank">
+    <img src="./icons/simulink.png" width="45" height="45" alt="Simulink" title="Simulink"/>
+  </a>
   &nbsp;
-  <img src="./icons/gazebo.png" width="45" height="45" alt="Gazebo" title="Gazebo"/>
+  <a href="https://gazebosim.org" target="_blank">
+    <img src="./icons/gazebo.png" width="45" height="45" alt="Gazebo" title="Gazebo"/>
+  </a>
   &nbsp;
-  <img src="./icons/carla.png" width="45" height="45" alt="CARLA" title="CARLA"/>
+  <a href="https://carla.org" target="_blank">
+    <img src="./icons/carla.png" width="45" height="45" alt="CARLA" title="CARLA"/>
+  </a>
   &nbsp;
-  <img src="./icons/qgroundcontrol.png" width="45" height="45" alt="QGroundControl" title="QGroundControl"/>
+  <a href="http://qgroundcontrol.com" target="_blank">
+    <img src="./icons/qgroundcontrol.png" width="45" height="45" alt="QGroundControl" title="QGroundControl"/>
+  </a>
 </p>
 
-### 🤖 Embedded & Robotics
+### Embedded & Robotics
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=ubuntu" width="45" height="45" alt="Ubuntu" title="Ubuntu"/>
+  <a href="https://ubuntu.com" target="_blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=ubuntu" width="45" height="45" alt="Ubuntu" title="Ubuntu"/>
+  </a>
   &nbsp;
-  <img src="./icons/foxy.webp" width="45" height="45" alt="ROS2 Foxy" title="ROS2 Foxy"/>
+  <a href="https://docs.ros.org/en/foxy" target="_blank">
+    <img src="./icons/foxy.webp" width="45" height="45" alt="ROS2 Foxy" title="ROS2 Foxy"/>
+  </a>
   &nbsp;
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=arduino" width="45" height="45" alt="Arduino" title="Arduino"/>
+  <a href="https://www.arduino.cc" target="_blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=arduino" width="45" height="45" alt="Arduino" title="Arduino"/>
+  </a>
   &nbsp;
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=raspberrypi" width="45" height="45" alt="Raspberry Pi" title="Raspberry Pi"/>
+  <a href="https://www.raspberrypi.com" target="_blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=raspberrypi" width="45" height="45" alt="Raspberry Pi" title="Raspberry Pi"/>
+  </a>
   &nbsp;
-  <img src="./icons/esp32.png" width="45" height="45" alt="ESP32" title="ESP32"/>
+  <a href="https://www.espressif.com/en/products/socs/esp32" target="_blank">
+    <img src="./icons/esp32.png" width="45" height="45" alt="ESP32" title="ESP32"/>
+  </a>
   &nbsp;
-  <img src="./icons/px4.png" width="45" height="45" alt="PX4" title="PX4"/>
+  <a href="https://px4.io" target="_blank">
+    <img src="./icons/px4.png" width="45" height="45" alt="PX4" title="PX4"/>
+  </a>
   &nbsp;
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=docker" width="45" height="45" alt="Docker" title="Docker"/>
+  <a href="https://www.docker.com" target="_blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=docker" width="45" height="45" alt="Docker" title="Docker"/>
+  </a>
 </p>
 
-### 💻 Programming
+### Programming
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=python" width="45" height="45" alt="Python" title="Python"/>
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=python" width="45" height="45" alt="Python" title="Python"/>
+  </a>
   &nbsp;
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp" width="45" height="45" alt="C++" title="C++"/>
+  <a href="https://isocpp.org" target="_blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp" width="45" height="45" alt="C++" title="C++"/>
+  </a>
   &nbsp;
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=javascript" width="45" height="45" alt="JavaScript" title="JavaScript"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=javascript" width="45" height="45" alt="JavaScript" title="JavaScript"/>
+  </a>
   &nbsp;
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=labview" width="45" height="45" alt="LabVIEW" title="LabVIEW"/>
+  <a href="https://www.ni.com/en/shop/labview.html" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/labview/labview-original.svg" width="45" height="45" alt="LabVIEW" title="LabVIEW"/>
+  </a>
   &nbsp;
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy" width="45" height="45" alt="NumPy" title="NumPy"/>
+  <a href="https://numpy.org" target="_blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy" width="45" height="45" alt="NumPy" title="NumPy"/>
+  </a>
   &nbsp;
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas" width="45" height="45" alt="Pandas" title="Pandas"/>
+  <a href="https://pandas.pydata.org" target="_blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas" width="45" height="45" alt="Pandas" title="Pandas"/>
+  </a>
 </p>
 
 ---
